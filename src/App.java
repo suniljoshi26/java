@@ -8,8 +8,10 @@ public class App {
         // d.Datmar();
         // c.talkBack();
         d.talkBack();
+        d.walk();
         Kangaru k = new Kangaru();
         k.walk();
         k.carryKid();
+        d.Hello();
     }
 }

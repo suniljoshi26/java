@@ -1,4 +1,4 @@
-public class Animal {
+public class Animal extends Xyz {
 
     public void talkBack() {
         System.out.println("jo humne bola vaapas bolo");

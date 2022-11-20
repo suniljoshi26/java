@@ -5,14 +5,18 @@ public class App {
         // Cat c = new Cat();
         // c.panjaMar();
         Dog d = new Dog();
+
+        d.eat("Apple");
+        d.eat(34);
+
         // d.Datmar();
         // c.talkBack();
-        d.talkBack();
-        d.walk();
-        Kangaru k = new Kangaru();
-        k.walk();
-        k.carryKid();
-        d.Hello();
+        // d.talkBack();
+        // d.walk();
+        // Kangaru k = new Kangaru();
+        // k.walk();
+        // k.carryKid();
+        // d.Hello();
 
         // run time pe type use hogi object ki but complile time pe use hogi variable ki
         // app sirf code dekh ke variable ki data type hamesha bta sakte h par object ki

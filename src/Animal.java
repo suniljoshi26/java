@@ -9,3 +9,9 @@ public class Animal extends Xyz {
 
     }
 }
+// Constructors
+
+// A function same name as class name
+// wo Object jo naya object banane ke just baad call hota hai
+
+// Abstract

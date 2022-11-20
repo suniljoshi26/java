@@ -8,7 +8,9 @@ public class App {
 
         d.eat("Apple");
         d.eat(34);
-
+        Ship s = new Ship();
+        s.name = "tar";
+        s.Fire(2, 45);
         // d.Datmar();
         // c.talkBack();
         // d.talkBack();
@@ -23,3 +25,4 @@ public class App {
         // data type hamesa nhi bta sakte. Uske liye run krke dekh na padega
     }
 }
+// public private pritected -> Abstraction has nothing to with security

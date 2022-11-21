@@ -15,3 +15,6 @@ public class Animal extends Xyz {
 // wo Object jo naya object banane ke just baad call hota hai
 
 // Abstract
+// aadhi kachi aadhi pakki class
+// kuch method pure pure ,aur kuch kaa sirf name
+// Abstract class kaa object nhi banta
